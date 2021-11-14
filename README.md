@@ -14,6 +14,7 @@ When running on your local instance, this plugin will try to generate a folder i
 You might find that this saves you time and/or money. A donation of any amount would be very kind and will ensure this is actively maintained. Donations can be made here: <https://www.paypal.com/donate/?hosted_button_id=9YRXRN6EJA2DN> -- Thank you!
 
 ## TO DO
+- Make this solution platform agnostic (e.g. MAMP, etc. for local / manual option for remote site)
 - Add un/pw field options on the backend, for referencing a pw-protected Panth instance
 - Ensure this solution still works for month/year folders
 - Add option for sites where 'wp-content/uploads' isn't the designated media location
