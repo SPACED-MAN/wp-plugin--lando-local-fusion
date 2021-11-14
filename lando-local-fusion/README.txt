@@ -1,6 +1,6 @@
 === Lando Local Fusion ===
 Contributors: spacedman
-Donate link: __
+Donate link: https://www.paypal.com/donate/?hosted_button_id=9YRXRN6EJA2DN
 Tags: local development, lando, pantheon
 Requires at least: 3.0.1
 Tested up to: 5.7
@@ -13,6 +13,10 @@ Speed up local dev in Lando/Pantheon by referencing media from your Pantheon pro
 == Description ==
 
 A WordPress plugin that can speed up local development in Lando/Pantheon by allowing you to bypass pulling media locally. Instead, this allows you to reference media on Pantheon's server as appropriate.
+
+== Donations ==
+
+You might find that this saves you time and/or money. A donation of any amount would be very kind and will ensure this is actively maintained. Donations can be made here: <https://www.paypal.com/donate/?hosted_button_id=9YRXRN6EJA2DN>  -- Thank you!
 
 == Installation ==
 

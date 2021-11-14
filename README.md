@@ -9,6 +9,10 @@ A WordPress plugin that can speed up local development in Lando/Pantheon by allo
 
 When running on your local instance, this plugin will try to generate a folder in '/wp-content/uploads/' called 'lando-local-fusion', with an 'index.php' file inside. If for any reason this folder isn't auto-generated (you'll know if this is the case, if you're experiencing problems), please copy the folder and file to 'wp-content/uploads'. You'll see it located in the plugin directory, inside of 'COPY-TO-UPLOADS'
 
+## Donations
+
+You might find that this saves you time and/or money. A donation of any amount would be very kind and will ensure this is actively maintained. Donations can be made here: <https://www.paypal.com/donate/?hosted_button_id=9YRXRN6EJA2DN> -- Thank you!
+
 ## TO DO
 - Add un/pw field options on the backend, for referencing a pw-protected Panth instance
 - Ensure this solution still works for month/year folders
