@@ -1,6 +1,6 @@
 === Lando Local Fusion ===
 Contributors: spacedman
-Donate link: https://venmo.com/u/spaced-man
+Donate link: __
 Tags: local development, lando, pantheon
 Requires at least: 3.0.1
 Tested up to: 5.7
