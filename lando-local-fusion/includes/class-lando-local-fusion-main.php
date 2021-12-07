@@ -46,7 +46,7 @@ class Lando_Local_Fusion_Main {
 
 				// if( get_option( 'upload_path' ) == '' ) {	// If the fusion "CDN" hasn't been initially configured (only run this ~once so that we're not constantly updating)
 					if( (strcmp($option_llf_behavior, 'Auto') == 0) && (get_option( 'upload_path' ) == '') ) { // If 'Auto' behavior, check for any images in the local 'wp-content/uploads' directory. If found, disable the CDN
-						$dir = new DirectoryIterator('./wp-content/uploads/');
+						$dir = new DirectoryIterator('/wp-content/uploads/');
 						$imageFound = false;
 						$imagesToLookFor = array(1 => 'jpg', 2 => 'jpeg', 3 => 'png', 4 => 'gif', 5 => 'svg', 6 => 'webp');
 						foreach($dir as $file) {
